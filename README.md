@@ -11,4 +11,4 @@ Desarrollo de ejercicios de guías de laboratorio de DPS
 
 # LICENSE
 
-[MTI]: https://github.com/Jony-07/GuiasLabDPS/blob/master/LICENSE.md
+MTI: (https://github.com/Jony-07/GuiasLabDPS/blob/master/LICENSE.md)

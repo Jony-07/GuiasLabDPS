@@ -11,7 +11,7 @@ return (
  <Text style={styles.title}>RESUMEN</Text>
  <DataResult style={styles.results} title="Nombre:" value={`${name} `} />
  <View style={styles.Topinicio}>
- <DataResult style={styles.results} title="Salario Base:" value={`${sneto} €`} />
+ <DataResult style={styles.results} title="Salario Base:" value={`${sneto} $`} />
  </View>
 
  <DataResult style={styles.results}
@@ -24,7 +24,7 @@ return (
  />
    <DataResult style={styles.results}
  title="Renta (5%):"
- value={`${total.afpDesc} $`}
+ value={`${total.rentaDesc} $`}
  />
    <DataResult style={styles.results}
  title="Descuento Total:"

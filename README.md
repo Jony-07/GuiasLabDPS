@@ -17,7 +17,7 @@ Desarrollo de ejercicios de guías de laboratorio de DPS
 
 -> guia0N\exampleApp> npm install
 
--> npx react-native run-android
+-> guia0N\exampleApp> npx react-native run-android
 
 # Specific version
 

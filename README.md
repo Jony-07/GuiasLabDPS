@@ -13,9 +13,9 @@ Desarrollo de ejercicios de guías de laboratorio de DPS
 
 -> cd guia0N
 
--> cd exampleApp
+-> guia0N> cd exampleApp
 
--> npm install
+-> guia0N\exampleApp> npm install
 
 -> npx react-native run-android
 

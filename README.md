@@ -9,6 +9,22 @@ Desarrollo de ejercicios de guías de laboratorio de DPS
 
 -> npm start
 
+# Usage (react - cli)
+
+-> cd guia0N
+
+-> cd exampleApp
+
+-> npm install
+
+-> npx react-native run-android
+
+# Specific version
+
+  I'm using this version: 
+  
+  version 0.65.1
+
 # LICENSE
 
 MTI: (https://github.com/Jony-07/GuiasLabDPS/blob/master/LICENSE.md)

@@ -31,4 +31,4 @@ MTI: (https://github.com/Jony-07/GuiasLabDPS/blob/master/LICENSE.md)
 
 # Information
 
-La resolución de cada guía esta en la rama que se ha creado/se creará correspondientemente a cada una
+La resolución de cada guía esta en la rama que se ha creado/se creará correspondientemente a cada una (aplica para guia 1 a guia 4)

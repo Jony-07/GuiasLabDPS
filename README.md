@@ -1,7 +1,7 @@
 # GuiasLabDPS
 Desarrollo de ejercicios de guías de laboratorio de DPS
 
-# Usage 
+# Usage (react - js)
 
 -> cd app_name
 
@@ -18,6 +18,14 @@ Desarrollo de ejercicios de guías de laboratorio de DPS
 -> guia0N\exampleApp> npm install
 
 -> guia0N\exampleApp> npx react-native run-android
+
+# Usage (expo - cli)
+
+-> cd guia0N
+
+-> guia0N> cd exampleApp
+
+-> guia0N\exampleApp> npx expo start
 
 # Specific version
 

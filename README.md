@@ -32,3 +32,7 @@ MTI: (https://github.com/Jony-07/GuiasLabDPS/blob/master/LICENSE.md)
 # Information
 
 La resolución de cada guía esta en la rama que se ha creado/se creará correspondientemente a cada una (aplica para guia 1 a guia 4)
+
+<p align="center">
+  <img src="https://crowdbotics.ghost.io/content/images/2021/05/React-Native-Img.png" width="780" title="hover text">
+</p>

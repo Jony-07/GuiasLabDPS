@@ -34,10 +34,11 @@ Object.values(e.linguas).map(l=>{
     <Card.Title>{nombre}</Card.Title>
     <Card.Divider />
     <View style={{ justifyContent: 'center' }}>
-    <Text>Capital:{capital}</Text>
-    <Text>Region:{region}</Text>
-    <Text>Lengua:{lengua.toString()}</Text>
-    <Text>Área de superficie:{superficie} {unidad}</Text>
+    <Text>Capital: {capital}</Text>
+    <Text>Region: {region}</Text>
+    <Text>Lengua: {lengua.toString()}</Text>
+    <Text>Área de superficie (km2) : { superficie!=''? superficie :''}</Text>
+    <Text>Área de superficie (m2) : { superficie!=''? superficie*1000 :''}</Text>
     {/* <Image style={styles.Imgs} source={{uri:src}} /> */}
     <View style={styles.containerImg} >
     <Image 

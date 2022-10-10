@@ -31,8 +31,9 @@ Desarrollo de ejercicios de guías de laboratorio de DPS
 
   I'm using this version: 
   
-  version 0.65.1
-
+  version 0.65.1 (react cli)
+  version 6.0.6 (expo cli)
+  
 # LICENSE
 
 MTI: (https://github.com/Jony-07/GuiasLabDPS/blob/master/LICENSE.md)

@@ -4,39 +4,43 @@
 ## Usage (react - js)
 
 ```
-> cd app_name
-
-> npm install react-scripts
-
-> npm start
-
+ cd app_name
+```
+```
+ npm install react-scripts
+```
+```
+ npm start
 ```
 
 ## Usage (react - cli)
 
 ```
-
-> cd guia0N
-
-> guia0N> cd exampleApp
-
-> guia0N\exampleApp> npm install
-
-> guia0N\exampleApp> npx react-native run-android
-
+ cd guia0N
+```
+```
+ cd exampleApp
+```
+```
+ npm install
+```
+```
+ npx react-native run-android
 ```
 
 ## Usage (expo - cli)
 
 ```
-> cd guia0N
-
-> guia0N> cd exampleApp
-
-> guia0N\exampleApp> yarn add expo
-
-> guia0N\exampleApp> npx expo start
-
+ cd guia0N
+```
+```
+ cd exampleApp
+```
+```
+ yarn add expo
+```
+```
+ npx expo start
 ```
 
 # Specific version
